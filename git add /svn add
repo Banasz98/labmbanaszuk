@@ -1,0 +1,5 @@
+echo "Linia testowa" > test.txt
+git add test.txt
+
+echo "Linia testowa" > test.txt
+svn add test.txt
