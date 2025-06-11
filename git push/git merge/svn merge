@@ -1,0 +1,4 @@
+# Załóżmy, że jesteś na main i chcesz scalić zmiany z branch 'funkcja'
+git merge funkcja
+
+svn merge ^/branches/funkcja
