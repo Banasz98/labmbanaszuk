@@ -1,0 +1,4 @@
+git branch nowa-funkcja      # tworzy branch
+git checkout nowa-funkcja    # przełącza się na branch
+
+svn copy ^/trunk ^/branches/nowa-funkcja -m "Tworzenie brancha nowa-funkcja"
